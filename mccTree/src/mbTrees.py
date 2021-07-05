@@ -46,11 +46,8 @@ def compute_mcc(list_of_files):
 
 
 if __name__ == '__main__':
-    #test_file="../Dropbox/EVOLAEMP/projects/Project-MaximumCladeCredibility/MCC_testscripts/bayes/dataMatrix_Berg::N.nex.nex.run2.t"
-    test_file="../../../../Dropbox/EVOLAEMP/projects/Project-MaximumCladeCredibility/MCC_testscripts/bayes/dataMatrix_Berg::N.nex.nex.run2.t"
-    test_list=[test_file]
-    #read_single_file(test_file)
-    compute_mcc(test_list)
+    pass
+
     
     
     
