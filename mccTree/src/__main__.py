@@ -23,5 +23,5 @@ def write_languageTree(list_of_files):
 
 if __name__ == '__main__':
     ##please use the output files from your analysis computed by Mr.Bayes, IQTree or another method computing tree replicates (e.g. bootstrap method or bootstrapping with noise)
-    test_file="../../../../Dropbox/EVOLAEMP/projects/Project-MaximumCladeCredibility/MCC_testscripts/bayes/dataMatrix_Berg::N.nex.nex.run2.t"
-    test_list=[test_file]
+    input_file= "please insert your tree file"
+    input_list=[input_file]
